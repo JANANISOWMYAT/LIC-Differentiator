@@ -1,5 +1,5 @@
 # LIC-Differentiator
-## Aim:
+## Aim: 
 To simulate an operational amplifier based differentiator to differentiate signals in the frequency range 1kHz to 10kHz.
 ## Apparatus required:
 PC with LT Spice Software
